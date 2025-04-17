@@ -38,7 +38,7 @@ public class DiceApp {
             }
 
         }
-        System.out.println("Twos: " + twoCounter + " Fours: " + fourCounter + " Six: " + sixCounter + " Seven: " + sevenCounter);
+        System.out.println("Twos: " + twoCounter + " Fours: " + fourCounter + " Sixes: " + sixCounter + " Sevens: " + sevenCounter);
 
     }
 }
